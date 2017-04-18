@@ -12,4 +12,4 @@
 2、在8080端口监听浏览器的连接请求并且只处理浏览器用HTTP POST 方法发送到/form这个URL的表单数据。
 
 
-3、该脚本保存在一个名为formecho.js文件中，示例见form.html。
+3、该脚本只响应POST请求。脚本保存在一个名为formecho.js文件中，示例见form.html。
